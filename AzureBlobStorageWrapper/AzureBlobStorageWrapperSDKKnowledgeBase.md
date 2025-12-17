@@ -13,15 +13,11 @@ A lightweight .NET wrapper SDK for Azure Blob Storage with Managed Identity auth
 
 ## Quick Start
 
-### Installation
 
-1. Build the project to generate the DLL:
-   ```bash
-   cd AzureBlobStorageWrapper
-   dotnet build --configuration Release
-   ```
+### Reference the Package
 
-2. Reference the generated DLL (`bin/Release/net8.0/AzureBlobStorageWrapper.dll`) in your project.
+The package will be available at:
+- NuGet: `C:/Users/xuycao/dev/demo/poc/customization/AzureBlobStorageWrapperSDK/AzureBlobStorageWrapper/bin/Release/AzureBlobStorageWrapper.1.0.0.nupkg`
 
 ### Basic Usage
 
@@ -99,13 +95,3 @@ AzureBlobStorageWrapper/
 
 - Azure.Storage.Blobs (12.26.0)
 - Azure.Identity (1.17.1)
-
-## Reference the Package
-
-
-The package will be available at:
-- NuGet: `C:/Users/xuycao/dev/demo/poc/customization/AzureBlobStorageWrapperSDK/AzureBlobStorageWrapper/bin/Release/AzureBlobStorageWrapper.1.0.0.nupkg`
-
-## License
-
-MIT
