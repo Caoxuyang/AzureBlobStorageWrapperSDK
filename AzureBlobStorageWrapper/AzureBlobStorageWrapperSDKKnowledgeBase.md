@@ -19,8 +19,8 @@ A lightweight .NET wrapper SDK for Azure Blob Storage with Managed Identity auth
 ### Reference the Package
 
 The package will be available at:
-- NuGet: `C:\Users\xuycao\.copilot\.appmod\KnowledgeBase\package\AzureBlobStorageWrapper.1.0.0.nupkg`
-- DLL: `C:\Users\xuycao\.copilot\.appmod\KnowledgeBase\package\AzureBlobStorageWrapper.dll`
+- NuGet: `C:\Users\xuycao\.copilot\skills\package\AzureBlobStorageWrapper.1.0.0.nupkg`
+- DLL: `C:\Users\xuycao\.copilot\skills\package\AzureBlobStorageWrapper.dll`
 
 Feel free to copy the package to applications that you are working on.
 
